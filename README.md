@@ -1,2 +1,2 @@
-# AlmazKam.github.io
+# Камалиев Алмаз
 My first site
